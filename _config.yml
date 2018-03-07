@@ -1,10 +1,10 @@
 # Jekyll configuration
 
-name: My blog
-description: A jekyll theme
+name: CSE Readiness Repo
+description: An Index of docs, videos, and more for readiness and upskilling
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://scotte.github.io/jekyll-clean
+url: https://tarockey.github.io/
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
@@ -28,6 +28,12 @@ isso: ''
 
 # Set this to your disqus shortname to enable comments via disqus. Set to '' to disable disqus.
 disqus: ''
+
+collections:
+  resources:
+    output: true
+    permalink: /:path
+
 
 permalink: /:categories/:title
 paginate: 3

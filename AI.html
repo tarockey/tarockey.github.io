@@ -1,0 +1,15 @@
+---
+layout: default
+title: AI Pages
+---
+
+<div id="home">
+  <h2>AI</h2>
+  <ul class="posts">
+    {% assign posts = site.resources | where: "categories", "AI" %}
+    {% for post in posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  
+</div>
