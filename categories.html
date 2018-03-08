@@ -1,0 +1,15 @@
+---
+layout: default
+permalink: /categories/
+title: Categories
+---
+
+
+<div id="archives">
+{% for collection in site.collections %}
+  <p>{{ collection.label }}</p>
+{%endfor%}
+{% for resource in site.resources %}
+    <p>{{ resource.title }}</p>
+{% endfor %}
+</div>
