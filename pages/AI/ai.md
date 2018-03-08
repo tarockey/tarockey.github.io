@@ -5,6 +5,7 @@ summary: "What the AI Pillar is all about"
 sidebar: home_sidebar
 permalink: ai.html
 last_updated: March 7, 2018
+folder: AI
 ---
 
 ## Teams Channel

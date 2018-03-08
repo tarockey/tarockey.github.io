@@ -4,6 +4,7 @@ keywords: Compute
 sidebar: home_sidebar
 permalink: compute.html
 last_updated: March 7, 2018
+folder: Compute
 ---
 
 <!-- Here is where the Pillar leads can put in the main goals/principles of the Pillar -->

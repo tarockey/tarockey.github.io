@@ -5,6 +5,7 @@ sidebar: home_sidebar
 permalink: cp_fundamentals.html
 last_updated: March 7, 2018
 tags: [get_started]
+folder: Cross-Pillar
 ---
 
 ## Community

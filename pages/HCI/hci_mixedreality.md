@@ -4,6 +4,7 @@ keywords: HCI
 sidebar: home_sidebar
 permalink: hci_mixedreality.html
 last_updated: March 7, 2018
+folder: HCI
 ---
 
 ## Community

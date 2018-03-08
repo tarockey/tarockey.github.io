@@ -4,6 +4,7 @@ keywords: Compute, Quantum
 sidebar: home_sidebar
 permalink: compute_quantum.html
 last_updated: March 7, 2018
+folder: Compute
 ---
 
 ## Community

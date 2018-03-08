@@ -4,6 +4,7 @@ keywords: AI, Machine Learning, ML
 sidebar: home_sidebar
 permalink: ai_machineLearning.html
 last_updated: March 7, 2018
+folder: AI
 ---
 
 ## Community

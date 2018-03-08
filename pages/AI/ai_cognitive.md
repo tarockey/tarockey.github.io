@@ -4,6 +4,7 @@ keywords: AI, Cognitive Services
 sidebar: home_sidebar
 permalink: ai_cognitive.html
 last_updated: March 7, 2018
+folder: AI
 ---
 
 ## Community

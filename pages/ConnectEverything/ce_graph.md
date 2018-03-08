@@ -4,6 +4,7 @@ keywords: Connect Everything, Graph
 sidebar: home_sidebar
 permalink: ce_graph.html
 last_updated: March 7, 2018
+folder: ConnectEverything
 ---
 
 ## Community

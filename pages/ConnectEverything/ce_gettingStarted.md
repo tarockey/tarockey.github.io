@@ -5,6 +5,7 @@ sidebar: home_sidebar
 permalink: ce_gettingStarted.html
 last_updated: March 7, 2018
 tags: [get_started]
+folder: ConnectEverything
 ---
 <!-- This page is intended to provide the essential links for diving into this pillar's tech -->
 

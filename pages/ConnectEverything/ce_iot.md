@@ -4,6 +4,7 @@ keywords: Connect Everything, IoT, Edge
 sidebar: home_sidebar
 permalink: ce_iot.html
 last_updated: March 7, 2018
+folder: ConnectEverything
 ---
 
 ## Community
