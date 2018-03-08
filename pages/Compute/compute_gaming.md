@@ -4,6 +4,7 @@ keywords: Compute, Gaming
 sidebar: home_sidebar
 permalink: compute_gaming.html
 last_updated: March 7, 2018
+folder: Compute
 ---
 
 ## Community

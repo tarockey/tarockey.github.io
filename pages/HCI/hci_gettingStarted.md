@@ -5,6 +5,7 @@ sidebar: home_sidebar
 permalink: hci_gettingStarted.html
 last_updated: March 7, 2018
 tags: [get_started]
+folder: HCI
 ---
 
 ## Community

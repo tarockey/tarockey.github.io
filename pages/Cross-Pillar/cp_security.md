@@ -4,6 +4,7 @@ keywords: Security
 sidebar: home_sidebar
 permalink: cp_security.html
 last_updated: March 7, 2018
+folder: Cross-Pillar
 ---
 
 ## Community

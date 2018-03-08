@@ -4,6 +4,7 @@ keywords: DevOps
 sidebar: home_sidebar
 permalink: cp_devops.html
 last_updated: March 7, 2018
+folder: Cross-Pillar
 ---
 
 ## Community

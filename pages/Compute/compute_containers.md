@@ -4,6 +4,7 @@ keywords: Compute, Containers, Docker
 sidebar: home_sidebar
 permalink: compute_containers.html
 last_updated: March 7, 2018
+folder: Compute
 ---
 
 ## Community

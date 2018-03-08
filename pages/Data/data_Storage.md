@@ -4,6 +4,7 @@ keywords: Data
 sidebar: home_sidebar
 permalink: data_Storage.html
 last_updated: March 7, 2018
+folder: Data
 ---
 
 ## Big Data Fundamentals

@@ -4,6 +4,7 @@ keywords: Compute, Media
 sidebar: home_sidebar
 permalink: compute_media.html
 last_updated: March 7, 2018
+folder: Compute
 ---
 
 ## Community

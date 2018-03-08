@@ -4,6 +4,7 @@ keywords: HCI
 sidebar: home_sidebar
 permalink: hci.html
 last_updated: March 7, 2018
+folder: HCI
 ---
 
 <!-- Here is where the Pillar leads can put in the main goals/principles of the Pillar -->

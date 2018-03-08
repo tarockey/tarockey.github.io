@@ -4,6 +4,7 @@ keywords: Compute, serverless, Logic Apps, Functions
 sidebar: home_sidebar
 permalink: compute_serverless.html
 last_updated: March 7, 2018
+folder: Compute
 ---
 
 ## Community

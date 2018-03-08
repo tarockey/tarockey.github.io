@@ -4,6 +4,7 @@ keywords: Compute, PaaS, Web
 sidebar: home_sidebar
 permalink: compute_paas.html
 last_updated: March 7, 2018
+folder: Compute
 ---
 
 ## Community
